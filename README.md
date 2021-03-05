@@ -1,0 +1,2 @@
+# higo
+go project initializater
